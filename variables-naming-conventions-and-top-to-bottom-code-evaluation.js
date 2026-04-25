@@ -24,9 +24,11 @@ Things to reflect on:
   
 */
 
-let a = "Alice";
-let b = 5;
-let c = 20;
-let d = a + " bought " + b + " items for $" + c + ".";
+let userName = "Alice";
+let quantity = 5;
+let item = "keyboards";
+let currency = "$";
+const price = 20;
+let display = userName + " bought " + quantity + " " + item + " for " + currency + cprice + ".";
 
-console.log(d);
+console.log(display);
