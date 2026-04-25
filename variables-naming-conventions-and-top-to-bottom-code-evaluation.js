@@ -29,6 +29,6 @@ let quantity = 5;
 let item = "keyboards";
 let currency = "$";
 const price = 20;
-let display = userName + " bought " + quantity + " " + item + " for " + currency + cprice + ".";
+let display = userName + " bought " + quantity + " " + item + " for " + currency + price + ".";
 
 console.log(display);
