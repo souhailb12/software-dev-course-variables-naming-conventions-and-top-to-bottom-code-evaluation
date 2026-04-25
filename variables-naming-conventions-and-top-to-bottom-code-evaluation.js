@@ -32,3 +32,9 @@ const price = 20;
 let display = userName + " bought " + quantity + " " + item + " for " + currency + price + ".";
 
 console.log(display);
+
+ Reflection Answers:
+
+ 1. Meaningful variable names make code easier to read and understand.
+ 2. Common mistakes include using unclear names like a, b, c or inconsistent styles.
+ 3. Clear variable names help teams work better together and avoid confusion.
