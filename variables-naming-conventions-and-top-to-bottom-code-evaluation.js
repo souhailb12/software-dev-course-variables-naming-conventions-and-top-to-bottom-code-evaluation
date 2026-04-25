@@ -33,8 +33,8 @@ let display = userName + " bought " + quantity + " " + item + " for " + currency
 
 console.log(display);
 
- Reflection Answers:
+// Reflection Answers:
 
- 1. Meaningful variable names make code easier to read and understand.
- 2. Common mistakes include using unclear names like a, b, c or inconsistent styles.
- 3. Clear variable names help teams work better together and avoid confusion.
+// 1. Meaningful variable names make code easier to read and understand.
+// 2. Common mistakes include using unclear names like a, b, c or inconsistent styles.
+// 3. Clear variable names help teams work better together and avoid confusion.
